@@ -847,7 +847,11 @@
 		{ "name": "Zul-Andra", "coords": [2201, 3068, 0], "size": "default" },
 		{ "name": "Zulrah's shrine", "coords": [2270, 3074, 0], "size": "default" },
 
-	        // custom locations start here
+
+
+
+
+
 		{ "name": "Ah Za Rhoon", "coords": [2908, 9336, 0], "size": "default" },
 		{ "name": "Al Kharid", "coords": [3293, 3151, 0], "size": "medium" },
 		{ "name": "Arceuus", "coords": [1688, 3745, 0], "size": "medium" },
