@@ -1,4 +1,9 @@
-# Explv.github.io
+# map.osrsplugins.com
+
+### explv.github.io
+
+Thank you to Explv for their work maintaining this project from the start.  
+See the original project at https://github.com/explv/explv.github.io
 
 ### Dax Path
 
@@ -7,6 +12,6 @@ All credits to him.
 
 ### Generating map tiles
 
-1. See instructions in https://github.com/Explv/osrs_map_tiles#generating-tiles
+1. See instructions in https://github.com/HydraTech/osrs_map_tiles#generating-tiles
 
-2. Test the map to ensure coordinates produced for a selection of OSRS tiles are correct, you can compare with the live version of https://explv.github.io/
+2. Test the map to ensure coordinates produced for a selection of OSRS tiles are correct, you can compare with the live version of https://map.osrsplugins.com/
